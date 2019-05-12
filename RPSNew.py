@@ -29,4 +29,4 @@ while True:
         elif computer == "rock":
             print("\nComputer picked rock... You lost!")
     else:
-        print("\nSomething went wrong. Please type 'rock', 'paper', or 'scissors'.")
+            print("\nSomething went wrong. Please type 'rock', 'paper', or 'scissors'.")
