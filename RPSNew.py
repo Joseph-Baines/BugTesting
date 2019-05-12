@@ -28,5 +28,5 @@ while True:
             print("\nComputer picked paper... You win!")
         elif computer == "rock":
             print("\nComputer picked rock... You lost!")
-            else:
-                print("\nSomething went wrong. Please type 'rock', 'paper', or 'scissors'.")
+        else:
+            print("\nSomething went wrong. Please type 'rock', 'paper', or 'scissors'.")
